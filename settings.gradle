@@ -1,0 +1,2 @@
+rootProject.name = "Practice_MVVM_With_MemoApp"
+include ':app'
